@@ -1,0 +1,7 @@
+# Tested on Python 3.12. Versions below are minimums, not hard pins.
+yfinance>=0.2.40
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10
+networkx>=3.0
+matplotlib>=3.7
